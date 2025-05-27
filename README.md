@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://wilgnersouza.github.io/meuportfolio2.0/">
-		 <img src="https://i.imgur.com/HP7RbFc.png" title="Wilgner banner"/>
+		 <img src="https://imgur.com/UjbA8Pk.png" title="Wilgner banner"/>
 	</a>
 </p>
 
