@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Arquitetando APIs robustas e sistemas escaláveis desde Manaus, AM</em>
+  <em>Backend Developer baseado em Manaus, AM</em>
 </p>
 
 <p align="center">
