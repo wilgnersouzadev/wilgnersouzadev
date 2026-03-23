@@ -1,57 +1,103 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Wilgner+Souza;Backend+Developer;NestJS+%7C+TypeScript+%7C+Docker" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-    <a href="https://wilgnersouza.github.io/meuportfolio2.0/">
-		 <img src="https://imgur.com/UjbA8Pk.png" title="Wilgner banner"/>
-	</a>
+  <em>Arquitetando APIs robustas e sistemas escaláveis desde Manaus, AM</em>
 </p>
 
-<div align="center">
-    
-![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=61dafb&logo=react "React.Js")
-![](https://img.shields.io/badge/--build?style=flat&logo=vue.js&logoColor=339933&color=FAFAFF "Vue.Js")
-![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=FAFAFF&logo=node.js "Node.Js")
-![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=F7DF1E&logo=javascript "JavaScript")
-![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=61dafb&logo=typescript "TypeScript")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=DD0031&logo=nestjs "Nest.Js")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=0D0D0D&logo=express "Express")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=7952B3&logo=axios "Axios")
-![](https://img.shields.io/badge/--0769AD.svg?style=flat&logoColor=FAFAFF&logo=jquery "JQuery")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=E34F26&logo=html5 "HTML")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=1572b6&logo=css3 "CSS")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=7952B3&logo=bootstrap "Bootstrap")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=0D0D0D&logo=amazon "AWS")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=007cba&logo=sonarqube "SonarQube")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=DD0031&logo=delphi "Delphi")
-![](https://img.shields.io/badge/--build?style=flat&logo=jira&logoColor=blue&color=white "Jira")
-![](https://img.shields.io/badge/--build?style=flat&logo=trello&logoColor=blue&color=white "Trello")
-![](https://img.shields.io/badge/--build?style=flat&logo=notion&logoColor=black&color=white "Notion")
-![](https://img.shields.io/badge/--build?style=flat&logo=clickup&logoColor=black&color=white "Click Up")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=fa7a18&logo=git "Linguagem Git")
-![](https://img.shields.io/badge/--build?style=flat&logo=bitbucket&logoColor=blue&color=white "BitBucket")
-![](https://img.shields.io/badge/--build?style=flat&logo=github&logoColor=black&color=white "GitHub")
-![](https://img.shields.io/badge/--build?style=flat&logo=gitlab&logoColor=orange&color=white "GitLab")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=007cba&logo=docker "Docker")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=1572b6&logo=sequelize "Sequelize")
-![](https://img.shields.io/badge/--build?style=flat&logo=prisma&logoColor=blue&color=white "Prisma")
-![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=007cba&logo=postgresql "PostgreSQL")
-![](https://img.shields.io/badge/--build?style=flat&logo=oracle&logoColor=red&color=white "Oracle")
-![](https://img.shields.io/badge/--build?style=flat&logo=mysql&logoColor=blue&color=white "MySQL")
-![](https://img.shields.io/badge/--2f7bad.svg?style=flat&logoColor=FAFAFF&logo=wordpress "Wordpress")
-![](https://img.shields.io/badge/--build?style=flat&logo=linux&logoColor=black&color=white "Linux")
-![](https://img.shields.io/badge/--build?style=flat&logo=windows&logoColor=blue&color=white "Windows")
-</div>
+<p align="center">
+  <a href="https://wilgnersouzadev.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=3b82f6" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/wilgnersouza-stw97">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5592992806495">
+    <img src="https://img.shields.io/badge/WhatsApp-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=25d366" alt="WhatsApp" />
+  </a>
+  <a href="mailto:wilgner.showtime@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" />
+  </a>
+</p>
 
-## About
+---
 
-I am an organized professional, with excellent oral and written communication skills, creative and proactive, easily adapting to new environments and/or teamwork.
+### Sobre
 
-I've worked with Backend Development, managing, developing and maintaining projects using the Typescript, NodeJs, React JS and Vanilla JS languages.
+Desenvolvedor Backend com +4 anos de experiência construindo APIs, microsserviços e sistemas completos em produção. Foco em **NestJS**, **TypeScript**, **PostgreSQL** e **Docker**. Já atuei em projetos de startups, white-labels, medicina do trabalho e sistemas governamentais.
 
-Today I'm working with FullStack Development with VueJs and NestJs technologies, mostly, along with PrimeVue and Prisma technologies.
+Também criei um **SaaS multi-tenant do zero** — backend, frontend, infra e deploy — com cliente real em produção.
 
-I have experience with HTML, CSS, React, VueJs, NestJs, PrimeVue, NodeJs (JavaScript/Typescript), Git, Git Flow, Sequelize, TypeORM, SCRUM, Kanban, Docker and others that you can check in my experiences. Recurrent use of agile methodologies systems such as JIRA project, JIRA Service, Trello and Notion.
+---
 
-----
+### Tech Stack
 
-![Wilgnersouza GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilgnersouzadev&show_icons=true&hide=contribs,prs&theme=algolia&border_radius=12&hide_border=true&count_private=true)
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=339933" />
+      <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178c6" />
+      <img src="https://img.shields.io/badge/NestJS-0a0a0a?style=flat-square&logo=nestjs&logoColor=e0234e" />
+      <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/GraphQL-0a0a0a?style=flat-square&logo=graphql&logoColor=e10098" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61dafb" />
+      <img src="https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-0a0a0a?style=flat-square&logo=vue.js&logoColor=4fc08d" />
+      <img src="https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06b6d4" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169e1" />
+      <img src="https://img.shields.io/badge/TypeORM-0a0a0a?style=flat-square&logo=typeorm&logoColor=fe0902" />
+      <img src="https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=2d3748" />
+      <img src="https://img.shields.io/badge/Oracle-0a0a0a?style=flat-square&logo=oracle&logoColor=f80000" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=2496ed" />
+      <img src="https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonwebservices&logoColor=ff9900" />
+      <img src="https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=f05032" />
+      <img src="https://img.shields.io/badge/CI/CD-0a0a0a?style=flat-square&logo=githubactions&logoColor=2088ff" />
+      <img src="https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=fcc624" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jira-0a0a0a?style=flat-square&logo=jira&logoColor=0052cc" />
+      <img src="https://img.shields.io/badge/SonarQube-0a0a0a?style=flat-square&logo=sonarqube&logoColor=4e9bcd" />
+      <img src="https://img.shields.io/badge/Sentry-0a0a0a?style=flat-square&logo=sentry&logoColor=362d59" />
+      <img src="https://img.shields.io/badge/Socket.io-0a0a0a?style=flat-square&logo=socket.io&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilgnersouzadev&show_icons=true&theme=algolia&border_radius=12&hide_border=true&layout=compact&card_width=445&langs_count=8)
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wilgnersouzadev&show_icons=true&hide=contribs&theme=github_dark&border_radius=12&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=3b82f6&icon_color=3b82f6&text_color=888888" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilgnersouzadev&theme=github_dark&border_radius=12&hide_border=true&layout=compact&card_width=320&langs_count=6&bg_color=0a0a0a&title_color=3b82f6&text_color=888888" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wilgnersouzadev&theme=dark&hide_border=true&border_radius=12&background=0A0A0A&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=888888&dates=555555&currStreakNum=CCCCCC&sideNums=CCCCCC" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wilgnersouzadev&color=3b82f6&style=flat-square&label=Visitantes" />
+</p>
