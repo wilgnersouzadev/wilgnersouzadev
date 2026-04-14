@@ -25,7 +25,7 @@
 
 ### Sobre
 
-Desenvolvedor Backend com +4 anos de experiência construindo APIs, microsserviços e sistemas completos em produção. Foco em **NestJS**, **TypeScript**, **PostgreSQL** e **Docker**. Já atuei em projetos de startups, white-labels, medicina do trabalho e sistemas governamentais.
+Desenvolvedor Backend com +5 anos de experiência construindo APIs, microsserviços e sistemas completos em produção. Foco em **NestJS**, **TypeScript**, **PostgreSQL** e **Docker**. Já atuei em projetos de startups, white-labels, medicina do trabalho e sistemas governamentais.
 
 Também criei um **SaaS multi-tenant do zero** — backend, frontend, infra e deploy — com cliente real em produção.
 
